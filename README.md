@@ -1,2 +1,4 @@
 # BMI-Cal
-<!-- Just some stupid code -->
+
+##No set up needed
+You just have to copy and paste 
